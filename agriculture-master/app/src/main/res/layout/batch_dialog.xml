@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="CROP NAME"
+        android:id="@+id/cropname"
+        android:background="@drawable/input_outline"
+        android:padding="10dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="WATER NEXT IN DAYS"
+        android:id="@+id/waterat"
+        android:background="@drawable/input_outline"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="FERTILIZE NEXT IN DAYS"
+        android:id="@+id/fertilizeat"
+        android:background="@drawable/input_outline"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="EXPECTED HARVEST FAY"
+        android:id="@+id/harvestat"
+        android:background="@drawable/input_outline"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        >
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/add"
+            android:text="ADD BATCH"
+            android:textColor="#ffff"
+            android:background="@color/colorPrimary"
+            android:layout_weight="1" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cancel"
+            android:layout_weight="1"
+            android:text="CANCEL"
+            android:background="@android:color/white"
+            android:textColor="@color/colorPrimary"
+
+            />
+    </LinearLayout>
+</LinearLayout>

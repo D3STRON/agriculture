@@ -1,0 +1,13 @@
+<resources>
+     <string name="post_an_ad">विज्ञापन प्रेषित करे</string>
+     <string name="place_your_ad_here">अपने विज्ञापन यहां डालें</string>
+     <string name="rent_equipments">किराया उपकरण</string>
+     <string name="rent_the_equipments">उपकरण किराए पर लें</string>
+     <string name="soil_analysis">मिट्टी विश्लेषण</string>
+     <string name="analyse_your_soil">अपनी मिट्टी का विश्लेषण करें</string>
+     <string name="animal_management">पशु प्रबंधन</string>
+     <string name="manage_your_animals">अपने जानवरों को प्रबंधित करें</string>
+     <string name="crop_management">फसल प्रबंधन</string>
+     <string name="manage_your_crops_here">यहां अपनी फसलों का प्रबंधन करें</string>
+     <string name="my_ads">मेरे विज्ञापन</string>
+</resources>

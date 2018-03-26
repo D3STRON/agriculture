@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Agriculture</string>
+    <string-array name="equipments">
+        <item>--Select Equpiments--</item>
+        <item>Tractor</item>
+        <item>Grain Saperator</item>
+        <item>Water Pump</item>
+        <item>Hand Tractor</item>
+        <item>Grain Dryer</item>
+    </string-array>
+    <string-array name="stables">
+        <item>--Select Stable--</item>
+        <item>Stable A</item>
+        <item>Stable B</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="post_an_ad">Post an Ad</string>
+    <string name="place_your_ad_here">Place your ad here</string>
+    <string name="rent_equipments">Rent Equipments</string>
+    <string name="rent_the_equipments">Rent the equipments</string>
+    <string name="soil_analysis">Soil Analysis</string>
+    <string name="analyse_your_soil">Analyse your soil</string>
+    <string name="animal_management">Animal Management</string>
+    <string name="manage_your_animals">Manage your animals</string>
+    <string name="crop_management">Crop Management</string>
+    <string name="manage_your_crops_here">Manage your crops here</string>
+    <string name="my_ads">My Ads</string>
+</resources>

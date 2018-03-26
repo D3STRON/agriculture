@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mab.code_6.TabActivity">
+    <item
+        android:title="Hindi"
+        android:id="@+id/hindi" />
+    <item
+        android:title="English"
+        android:id="@+id/english" />
+</menu>
